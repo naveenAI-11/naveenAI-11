@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @naveenAI-11 #Naveen Nandhagopal
-- 👀 I’m interested in predictive statistical modelling and advanced data visualisations
-- 🌱 I’m currently learning data modelling
 - 💞️ I’m looking to collaborate on real-time projects
 - 📫 LinkedIN: www.linkedin.com/in/naveenbalajin
 
